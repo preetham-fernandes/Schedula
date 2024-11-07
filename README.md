@@ -1,0 +1,1 @@
+Schedula is a course scheduling platform built for Software Engineering Project, the platform is specifically built according to the srs document.
